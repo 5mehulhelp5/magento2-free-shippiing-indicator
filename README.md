@@ -2,7 +2,7 @@
 
 ![Magento](https://img.shields.io/badge/Magento-2.x-orange?logo=magento)  ![PHP](https://img.shields.io/badge/PHP-8.x-blue?logo=php) ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)  
   
-#####This Magento 2 extension provides a clear visual indicator on the cart page, informing customers how close they are to qualifying for free shipping. It enhances the overall shopping experience and helps encourage higher cart values.
+##### This Magento 2 extension provides a clear visual indicator on the cart page, informing customers how close they are to qualifying for free shipping. It enhances the overall shopping experience and helps encourage higher cart values.
 ---
 
 ## Installation  
