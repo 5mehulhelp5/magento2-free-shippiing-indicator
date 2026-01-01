@@ -11,7 +11,8 @@
             <block class="NadeemSoft\ShipIndicator\Block\Cart\Indicator"
                    name="nadeemsoft.shipindicator.minicart"
                    template="NadeemSoft_ShipIndicator::cart/summary/indicator.phtml"
-                   before="-"/>
+                   before="-"
+                   ifconfig="ship_indicator/general/is_enable"/>
         </referenceContainer>
     </body>
 </page>
